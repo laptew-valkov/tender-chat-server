@@ -3,6 +3,6 @@
 <h2>Основные данные:</h2>
 
 <hr>
-<p>База:</p>
+<h3>База:</h3>
 <img src="DB-tender-chat.png">
 <hr>
