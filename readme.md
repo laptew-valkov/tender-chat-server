@@ -2,5 +2,7 @@
 
 Основные данные:
 
+<hr>
 <p>База:</p>
 <img src="DB-tender-chat.png">
+<hr>
