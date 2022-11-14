@@ -2,3 +2,5 @@
 
 Основные данные:
 
+База:
+<img src="DB-tender-chat.png">
