@@ -2,5 +2,5 @@
 
 Основные данные:
 
-База:
+<p>База:</p>
 <img src="DB-tender-chat.png">
